@@ -74,8 +74,8 @@ _Feel free to add anything what you think could be valuable for us_
     
             - Search for school name
             - Search for schools, close to my home
-            - Have a possibility to create my own wisth list
-            - Compare schools from my wisth list
+            - Have a possibility to create my own wish list
+            - Compare schools from my wish list
             - Have a full list of schools in my city
     
      - [ ] - As a user (school) I want to be able:
