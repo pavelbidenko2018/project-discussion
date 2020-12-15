@@ -54,10 +54,35 @@ _Feel free to add anything what you think could be valuable for us_
     
  - Feruz
  
-    - [ ] - 
-    - [ ] - 
-    - [ ] - 
-    - [ ] -
+    ## Personas
+
+Sara comes from Eritrea. She has lived in Gent since last month. She has two kids. Sara can speak a little bit English. Sometimes she has a problem reading letters or to communicate with others. She decided to learn Dutch. But before she has to find a school for her kids.  
+
+### Needs of users
+- Distance
+- Type of school (private, Religious, public …)
+- School bus
+- Language
+- Payment
+
+### For whom / Target
+- Parents
+- Student
+
+## Why it is important / Benefit 
+Easy access of information instead check each and every school website
+
+## User Story
+
+### As a user
+
+- As a site visitor , I would like easy access to school information in my city. So I can save my time.
+- As a site visitor I can choose the type of school ( Distance of school, type of school, language ...etc)  and I can get a list of schools depending on my choice. 
+- As a user I can get better recommendations, it can help me to my choice.
+- As a user i can get detailed information of the schools example address, Tel number, email, web-site … etc. So I can contact the schools easily. 
+- As a user I can read reviews of people in specific schools. It helps me in my decision. 
+
+    
     
     
  - Pavel
