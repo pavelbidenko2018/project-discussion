@@ -5,7 +5,7 @@ _Feel free to add anything what you think could be valuable for us_
 
 -  Razvan
 
-    - [ ] - 
+    - [ ] - First try the idea only for a City and the maybe expend to the Flamish part of Belgium and the who know maybe to the all country of Belgium.
     - [ ] - 
     - [ ] - 
     - [ ] - 
