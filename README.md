@@ -28,10 +28,15 @@ _Feel free to add anything what you think could be valuable for us_
  
  - Yulia 
  
-    - [ ] - 
-    - [ ] - 
-    - [ ] - 
-    - [ ] -
+    Persona:
+    
+    John and Jane Doe, age 38, parents of a 12-year-old James Doe, both full time working.
+    Want to find the most suiting secondary school for their son (without spending too much time and effort on it) based on the following criteria:
+    - Geographical position
+    - Language of studying
+    - Type of school (state, private, international)
+    - Orientation (general, technical, vocational, art)
+    - Ratings from other users (possible)
     
  - Feruz
  
