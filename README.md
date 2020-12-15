@@ -70,7 +70,18 @@ _Feel free to add anything what you think could be valuable for us_
     
  - Ira
  
-    - [ ] - 
+    - [ ] - As a user (parent) I want to be able:
+    
+            - Search for school name
+            - Search for schools, close to my home
+            - Have a possibility to create my own wisth list
+            - Compare schools from my wisth list
+            - Have a full list of schools in my city
+    
+     - [ ] - As a user (school) I want to be able:
+    
+            - Add my own school with all details
+          
     - [ ] - https://www.niche.com/k12/search/best-school-districts/t/belgium-ozaukee-wi/ - nice example of UI
     - [ ] - https://www.expatica.com/be/education/children-education/secondary-schools-in-belgium-139530/ explanation about secondary schools in Belgium
     - [ ] -
