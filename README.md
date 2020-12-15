@@ -19,11 +19,25 @@ _Feel free to add anything what you think could be valuable for us_
     
  - Olga 
  
-    - [ ] - 
-    - [ ] - 
-    - [ ] - 
-    - [ ] -
-    
+    2 kinds of users
+
+    User who haven’t time for search and compare info (parents or grandparents who works). Principles: short, clear, possibility to save.
+    Interesting info:
+    - contact and possibility to call/ write from app
+    - place and possibility to create route
+    - short summary of the school’s focus
+    - opening hours
+    - private account for saving interesting schools
+    - possibility to compare by several factors
+    - how to make appointment
+    - possibility to find quick the site of school
+
+    User who have time for search and compare info (parents or grandparents have free time). Principles: fully, justified, possibility to communicate.
+    - photos of school and activity
+    - detailed description
+    - possibility to leave comments
+    - rank and reviews of other users (for example, from google.maps)
+    - possibility share some school to other people    
  
  
  - Yulia 
