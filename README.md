@@ -6,9 +6,9 @@ _Feel free to add anything what you think could be valuable for us_
 -  Razvan
 
     - [ ] - First try the idea only for a City and the maybe expend to the Flamish part of Belgium and the who know maybe to the all country of Belgium.
-    - [ ] - 
-    - [ ] - 
-    - [ ] - 
+    - [ ] - As a user I want to be able to find the best option for school 
+    - [ ] - As a user I want to be able to search all the school in the zone(Gent) , as close as possible to my home and one that my kid would fit in.
+    - [ ] - As a user I need to have the interface in  English since is the first internatioal language.
 
  - Fatih
  
