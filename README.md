@@ -15,7 +15,15 @@ _Feel free to add anything what you think could be valuable for us_
     - [ ] - All the flemish secondary schools can be downloaded here in cvs format: https://data-onderwijs.vlaanderen.be/onderwijsaanbod/lijst?n=2&hz=true&hs=311
     - [ ] - Secondary schools in Antwerpen in different formats : https://opendata.vlaanderen.be/dataset/secundair-onderwijs/resource/dc0925cf-3b12-4346-9fc7-f6b46af24f4b
     - [ ] - Secondary schools in Gent in different formats : https://data.gov.be/nl/dataset/locaties-secundaire-scholen-gent
-    - [ ] -
+    - [ ] - Additional features
+        - Information about education system in general
+        - Information about school networks  ( Catholic, GO etc)
+        - Information about study areas (ASO, TSO, etc )
+        - Information about language classes (OKAN classes for students who doesn't know enough Dutch)
+        - Select school network type
+        - Select school with language classes 
+        - Select study areas for 2nd and 3rd grades 
+
     
  - Olga 
  
