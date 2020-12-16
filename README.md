@@ -19,26 +19,25 @@ _Feel free to add anything what you think could be valuable for us_
     
  - Olga 
  
-    2 kinds of users
+    ### As a parent I want: 
+    - to chose my living place and see all schools nearby, it economy my time to find all schools in my district
+    - to search school by name to be able to find it quick
+    - to save interesting schools to be able to find it quick and don't forget about favorite schools
+    - to find main info about school: number, type, address, language, subjects focus, student’s schedules, contact, site, photo, schedules of school bus, payments, opening hours, school activity etc. to be able to quickly assess whether the school is right for me or not
+    - to go to the school’s  site direct from his description, it economy my time for searching this site in Internet
+    - to phone the school from his description for quick connection
+    - to read the comments other people about school for making general impression
+    - to save comments about school for sharing experience
 
-    User who haven’t time for search and compare info (parents or grandparents who works). Principles: short, clear, possibility to save.
-    Interesting info:
-    - contact and possibility to call/ write from app
-    - place and possibility to create route
-    - short summary of the school’s focus
-    - opening hours
-    - private account for saving interesting schools
-    - possibility to compare by several factors
-    - how to make appointment
-    - possibility to find quick the site of school
+    ### As a school-manager I want:
+    - to search school by name for possibility to find it quick
+    - to add my school to the site, it make my school more popular
+    - to change or add some info to update actual info
+    - to check statistics views of my school to understand the school’s popular
+    - to read comments about school for understanding what impression the school leaves
 
-    User who have time for search and compare info (parents or grandparents have free time). Principles: fully, justified, possibility to communicate.
-    - photos of school and activity
-    - detailed description
-    - possibility to leave comments
-    - rank and reviews of other users (for example, from google.maps)
-    - possibility share some school to other people    
- 
+
+
  
  - Yulia 
  
