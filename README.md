@@ -83,7 +83,7 @@ Easy access of information instead check each and every school website
 
 ## App features
 [App feature diagram](https://lucid.app/lucidchart/1a507077-41d3-4188-8d43-b3348a5509f6/view?page=0_0#?folder_id=home&browser=icon)
-![Wire-frame](https://wireframe.cc/zEyjR4)
+[Wire-frame](https://github.com/IrynaSpyrydonova/project-discussion/issues/1)
     
     
     
