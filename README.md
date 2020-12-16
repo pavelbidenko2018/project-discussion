@@ -81,6 +81,8 @@ Easy access of information instead check each and every school website
 - As a user i can get detailed information of the schools example address, Tel number, email, web-site … etc. So I can contact the schools easily. 
 - As a user I can read reviews of people in specific schools. It helps me in my decision. 
 
+## App features
+[App feature diagram](https://lucid.app/lucidchart/1a507077-41d3-4188-8d43-b3348a5509f6/view?page=0_0#?folder_id=home&browser=icon)
     
     
     
