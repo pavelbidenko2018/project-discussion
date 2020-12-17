@@ -143,10 +143,25 @@ Easy access of information instead check each and every school website
     
  - Pavel
  
-    - [ ] - 
-    - [ ] - 
-    - [ ] - 
-    - [ ] -
+ ## Application features and possibilities:
+ 
+ As a user SCHOOL MANAGER i would like:
+    - [x] - to fill an input form in order to add my school to the list 
+    - [x] - to get an input validation feedback from the system including application advices 
+    - [x] - to get an OK feedback in the form of email notification  
+    - [x] - to have a posibillity to edit the existing info
+    - [x] - to have a possibility to see the users' comments and to answer their questions interactively
+    - [x] - to get a notification if there are unanswered questions and unseen comments
+ 
+ As a user PARENT i would like:
+    - [x] - to get a clear and rather short information about school system in Belgium (maybe in the way of stepping stones: what i have to do to sign my child to the desired school)
+    - [x] - to have possibillity to signup and log into the system 
+    - [x] - to get the whole list of schools in my region (with a visual geographical position)
+    - [x] - to study the info about the school, on which i click on the map  
+    - [x] - to write a comment or a question to the school manager
+    - [x] - to recieve the email notification when the school nmanager answer my question
+    - [x] - to have a posibility to construct a list of schools based on desired criteria
+    - [x] - to have a possibility to store the result of search        
     
     
  - Ira
