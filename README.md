@@ -1,4 +1,4 @@
-# Personas and features
+# Persons and features
 
 ## 1. School manager, who wants people to know more about his school.
 
