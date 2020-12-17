@@ -1,3 +1,49 @@
+# Personas and features
+
+## 1. School manager, who wants people to know more about his school.
+
+### Features:
+ - Form for applying for school registration on our website. After submission , send a notification to the user: "Thanks for adding your school, our moderator will check your information and publish it" (for now, only frontend)
+
+### Challenge : 
+ - connect form with backend and provide admin page for moderator.
+ 
+ 
+## 2. Parents / parent who have moved to Belgium, in particular to Ghent (newcomers) with children aged 12 and over, are looking for a secondary school for their children.
+
+### Features:
+ - Static page with information about educational systems in Belgium.
+ - Filter schools by criteria:
+   - geographical position
+   - language classes
+   - rating / reviews
+   - school network
+   - school field 
+ - Full list of schools in Ghent
+ - Each item of the list of schools will contain information:
+   - school name 
+   - the address
+   - phone number, email, website
+   - language classes
+   - rating / reviews
+   - school network
+   - school field 
+ - Sing-in , sing-up form for user
+ - Create personal account for user
+ - Create a list with favorite/ saved schools
+ - Leave a review about the school
+
+### Challenge : 
+ - compare schools from the list of user and mobile application(very very optional)
+ 
+
+    
+   
+
+
+
+
+
 # Project discussions, ideas, thoughts
 
 _Feel free to add anything what you think could be valuable for us_
